@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Habits </h1>
 
 <p align="center">
 Projeto desenvolvido com base no Evento NLW SETUP, este que é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
