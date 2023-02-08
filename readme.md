@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um gerenciador de hábitos, onde podemos marcar os hábitos realizados no dia. 
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://ramonfelix.github.io/habits/)
 
 
 ## 📚 Aprendizado
